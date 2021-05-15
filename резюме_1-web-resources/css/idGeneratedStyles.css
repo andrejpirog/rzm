@@ -5,7 +5,7 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 }
 body {
 	width:550px;
-	height:content;
+	
 	background-color:none;
 	
 	
@@ -14,7 +14,7 @@ body {
 #AA {
 	margin-top:200px;
 	width:500px;
-	height:content;
+
 	background-color:wait;
 	
 	
@@ -278,7 +278,7 @@ tr._idGenTableRowColumn-13 {
 }
 #_idContainer002 {
 	float:left;	
-	height:100%;
+
 	width:505px;
 }
 img._idGenObjectAttribute-1 {
